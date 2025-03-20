@@ -1,0 +1,16 @@
+
+/* TEAM */
+
+    Name: paparulo developer
+    Contact: venegaslujjano <<at>> gmail <<dot>> com
+    From: Peru
+
+
+/* SITE */
+
+    Language: Quechua Español
+    Doctype: HTML5
+    IDE: VSCODE
+    SCM: Git
+
+Hosting: nA
